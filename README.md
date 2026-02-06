@@ -39,13 +39,16 @@ The following tasks were performed in SQL Server:
 ## Power BI Dashboard
 
 ### KPI Cards
-![Total Customers](screenshots/sql project ss/total_customers.png)
-![Churn Rate](screenshots/sql project ss/churn_rate.png)
-![Churned Customers](screenshots/sql project ss/churned_customers.png)
+
+![Total Customers](screenshots/sql%20project%20ss/total_customers.png)
+![Churn Rate](screenshots/sql%20project%20ss/churn_rate.png)
+![Churned Customers](screenshots/sql%20project%20ss/churned_customers.png)
 
 ### Churn Analysis
-![Churn by Contract](screenshots/sql project ss/churn_by_contract.png)
-![Churn by Payment Method](screenshots/sql project ss/churn_by_payment_method.png)
+
+![Churn by Contract](screenshots/sql%20project%20ss/churn_by_contract.png)
+![Churn by Payment Method](screenshots/sql%20project%20ss/churn_by_payment_method.png)
+
 
 
 ---
