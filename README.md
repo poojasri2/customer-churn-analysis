@@ -38,7 +38,7 @@ The following tasks were performed in SQL Server:
 
 ## Power BI Dashboard
 
-### Overall Metrics
+### KPI Cards
 ![Total Customers](screenshots/sql project ss/total_customers.png)
 ![Churn Rate](screenshots/sql project ss/churn_rate.png)
 ![Churned Customers](screenshots/sql project ss/churned_customers.png)
@@ -62,6 +62,7 @@ The following tasks were performed in SQL Server:
 🔜 Future scope: Churn prediction using Machine Learning
 
 ---
+
 
 ## Author
 **Pooja Sri Satya**  
