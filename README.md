@@ -37,13 +37,16 @@ The following tasks were performed in SQL Server:
 ---
 
 ## Power BI Dashboard
-The Power BI dashboard includes:
 
-- **Churn Rate (%) KPI card**
-- **Total Customers**
-- **Total Churned Customers**
-- **Churn by Contract Type** (Month-to-month, One year, Two year)
-- Interactive filters and slicers
+### Overall Metrics
+![Total Customers](screenshots/sql project ss/total_customers.png)
+![Churn Rate](screenshots/sql project ss/churn_rate.png)
+![Churned Customers](screenshots/sql project ss/churned_customers.png)
+
+### Churn Analysis
+![Churn by Contract](screenshots/sql project ss/churn_by_contract.png)
+![Churn by Payment Method](screenshots/sql project ss/churn_by_payment_method.png)
+
 
 ---
 
